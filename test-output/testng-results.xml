@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="18" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T11:00:22 IST" name="Suite" finished-at="2023-05-24T11:00:22 IST" duration-ms="138">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T11:00:22 IST" name="Test" finished-at="2023-05-24T11:00:22 IST" duration-ms="138">
+      <class name="test.C">
+        <test-method is-config="true" signature="beforeclassc()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="beforeclassc" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassc -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m7()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="m7" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m7 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m8()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="m8" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m8 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m9()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="m9" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m9 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="aftertest" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:test.C@72a7c7e0]" started-at="2023-05-24T11:00:22 IST" name="afterclass" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- test.C -->
+      <class name="test.B">
+        <test-method is-config="true" signature="beforetestB()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="beforetestB" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetestB -->
+        <test-method is-config="true" signature="beforeclassc()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="beforeclassc" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassc -->
+        <test-method signature="m4()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="m4" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m5()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="m5" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m6()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="m6" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="afterclass" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertestB()[pri:0, instance:test.B@64cd705f]" started-at="2023-05-24T11:00:22 IST" name="aftertestB" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertestB -->
+      </class> <!-- test.B -->
+      <class name="test.A">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="beforesuite" finished-at="2023-05-24T11:00:22 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="beforetest" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclassc()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="beforeclassc" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassc -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m1()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="m1" finished-at="2023-05-24T11:00:22 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m2()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="m2" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method signature="m3()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="m3" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="afterclass" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="aftertest" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:test.A@61230f6a]" started-at="2023-05-24T11:00:22 IST" name="aftersuite" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- test.A -->
+      <class name="test.D">
+        <test-method is-config="true" signature="beforeclassc()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="beforeclassc" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassc -->
+        <test-method signature="m7()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="m7" finished-at="2023-05-24T11:00:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m7 -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method signature="m8()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="m8" finished-at="2023-05-24T11:00:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m8 -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method is-config="true" signature="bfmethod()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="bfmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfmethod -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method signature="m9()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="m9" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m9 -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="aftertest" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="afmethod()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="afmethod" finished-at="2023-05-24T11:00:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afmethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:test.D@9225652]" started-at="2023-05-24T11:00:22 IST" name="afterclass" finished-at="2023-05-24T11:00:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- test.D -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
