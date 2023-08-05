@@ -1,8 +1,8 @@
-package samlple;
+package samlple1;
 
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class Test2 {
 	
 	@Test
 	public void m1() {
@@ -20,11 +20,6 @@ public class Test1 {
 	@Test
 	public void m4() {
 		System.out.println("class Test1 m4");
-	}
-	
-	@Test
-	public void m5() {
-		System.out.println("class Test1 m5");
 	}
 
 }
